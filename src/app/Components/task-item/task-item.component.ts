@@ -16,10 +16,10 @@ faTimes = faTimes;
 
   ngOnInit(): void {
   }
-  OnDelete(task){
+  OnDelete(task: Task){
     this.onDeleteTask.emit(task);
   }
-  onToggle(task){
+  onToggle(task: Task){
     this.onToggleReminder.emit(task);
   }
 
