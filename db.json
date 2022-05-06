@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "Gaming Night",
+      "day": "October 4th",
+      "reminder": false,
+      "id": 1
+    }
+  ]
+}
