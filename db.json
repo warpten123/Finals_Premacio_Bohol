@@ -2,7 +2,8 @@
   "tasks": [
     {
       "text": "Gaming Night",
-      "day": "October 4th",
+      "day": "2022-10-01",
+      "time": "12:00",
       "reminder": true,
       "id": 1
     }

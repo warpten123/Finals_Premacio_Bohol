@@ -2,21 +2,24 @@ import { Task } from './Task'
 
 export const TASKS: Task[] = [
   {
-    id: 1,
+    id: '0.9829779150144616',
     text: 'Doctors Appointment',
-    day: 'May 5th at 2:30pm',
+    day: '05,05,2021',
+    time: '11:31 am',
     reminder: true,
   },
   {
-    id: 2,
+    id: '0.9829779150144601',
     text: 'Meeting at School',
-    day: 'May 6th at 1:30pm',
+    day: '06,05,2021',
+    time: '01:30 pm',
     reminder: true,
   },
   {
-    id: 3,
+    id: '0.9829779150144603',
     text: 'Food Shopping',
-    day: 'May 7th at 12:30pm',
+    day: '07,05,2021',
+    time: '12:31 am',
     reminder: false,
   },
 ];
